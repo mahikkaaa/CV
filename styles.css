@@ -1,0 +1,28 @@
+body {
+  background-color: pink;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 10%;
+  border-width: 5px;
+  border-color: white;
+}
+
+
+img {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  border-width: 10px;
+  border-style: double;
+  border-color: white;
+}
+
+.heading1 {
+  color: white;
+}
+
+h2 {
+  color: #91073c;
+}
